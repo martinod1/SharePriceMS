@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SharePriceMicroService.iml" filepath="$PROJECT_DIR$/SharePriceMicroService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SharePriceMicroService.iml" filepath="$PROJECT_DIR$/.idea/modules/SharePriceMicroService.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SharePriceMicroService_main.iml" filepath="$PROJECT_DIR$/.idea/modules/SharePriceMicroService_main.iml" group="SharePriceMicroService" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SharePriceMicroService_test.iml" filepath="$PROJECT_DIR$/.idea/modules/SharePriceMicroService_test.iml" group="SharePriceMicroService" />
     </modules>
   </component>
 </project>
